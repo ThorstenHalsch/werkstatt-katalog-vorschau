@@ -9,11 +9,11 @@ Auftragsverwaltung, keine Schreibfunktion in deren Datenbestand.
 `index.html` herunterladen und im Browser öffnen oder nach gesonderter Freigabe
 über GitHub Pages bereitstellen. Kein Build nötig. Antworten werden nach Möglichkeit
 nur in diesem Browser zwischengespeichert, nicht auf GitHub gespeichert.
-„Bearbeitete HTML-Datei speichern“ erzeugt eine neue Datei mit den Eingaben;
-„Antworten als JSON speichern“ ist eine zusätzliche Sicherung. Downloads mit
+„Meine Antworten speichern“ erzeugt eine neue Datei mit den Eingaben;
+„Zusätzliche Sicherungsdatei speichern“ ist eine zusätzliche Sicherung. Downloads mit
 Antworten sind vertraulich und dürfen **nicht in dieses öffentliche Repo**.
 
-Je Paket öffnet „Rückmeldung auf GitHub prüfen“ ein vorbereitetes Issue im separaten
+Je Paket öffnet „Weiter zum Abschicken“ ein vorbereitetes Issue im separaten
 privaten Repository `ThorstenHalsch/werkstatt-katalog-feedback`. Erst dort bestätigen.
 GitHub-Anmeldung und Zugriff erforderlich; ohne Berechtigung ist auch 404 möglich.
 Lange Rückmeldungen als JSON sichern und dem privaten Fragebogen anhängen.
@@ -35,3 +35,15 @@ Antworten nur als Text darstellen. Die Vorschau enthält ausschließlich manuell
 zusammengestellte allgemeine Vorschläge, keine historischen Einzeltexte oder
 Geschäftsdaten. Technische Vorschlagskennungen sind öffentlich lesbar, keine Secrets.
 Die eingebettete Vorschlagsfassung dient der Zuordnung, nicht der Authentifizierung.
+
+
+## Einfache Bedienung (Textüberarbeitung 02.11.2026)
+
+Schrittfolge und Buttons benennen die Tätigkeit, nicht das Dateiformat. Normales
+Speichern ist die wieder zu öffnende Antwortseite; technische Zusatzsicherung und
+Löschen stehen unter „Weitere Möglichkeiten“. Ein anderer Fragebogen ist unter
+„Wenn das Abschicken nicht klappt“ erklärt; Antworten werden dort nicht automatisch
+übernommen. Die GitHub-Anmeldung und die englische Schaltfläche werden mit klarer
+Übersetzung erklärt. Speichern/Weiterleiten ist ausdrücklich nicht bereits Absenden.
+Die fachlichen Fragen, Auswahlwerte, Edition und Zuordnungen bleiben gleich;
+bestehende Browser-Zwischenstände und Antwortdateien bleiben zuordenbar.
