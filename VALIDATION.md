@@ -23,3 +23,10 @@ Edition pilot-2026-11-02-v1. Drei generische Familien und sechs Varianten.
 Noch nicht geprüft: echte GitHub-Anmeldung/Einladung der Werkstattleitung und
 Absenden in dessen Account, GitHub-Pages-Betrieb, echtes Tablet/Safari. Kein
 automatischer Rückimport oder ständig laufender Auswertungsagent eingerichtet.
+
+
+## Einfache Sprache – 02.11.2026
+
+Labels/Anleitung überarbeitet, fachliche Daten/Fragen und Edition unverändert.
+Keine Formatnamen in Buttons, alternative Übertragung und technische Sicherung
+aufklappbar. Gleicher Browser-/Rundlauftest mit neuen Labels; keine echten Issues.
